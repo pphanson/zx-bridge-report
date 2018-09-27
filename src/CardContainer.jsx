@@ -19,6 +19,8 @@ class CardContainer extends Component {
     render() {
         return (
          <Row gutter={16}>
+          <Col span={8}>
+          </Col>
           {
             this.props.data.map((item, index) => (
               <Col span={8} key={index}>

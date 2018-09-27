@@ -1,0 +1,35 @@
+.chart {
+    background: #2c3034;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.property {
+    color: #b0b0b0;
+    font-size: 16px;
+}
+
+.value {
+    color: #3aebcc;
+    font-size: 24px;
+}
+
+.infoCard {
+    background: #45acd2;
+    font-size: 24px;
+    border-radius: 15px;
+    color: white;
+    height: 120px ;
+}
+
+.bridges_list {
+    position: absolute;
+    right: 5px;
+    font-size: 16px;
+}
+
+.bridges_list:hover {
+    cursor: pointer;
+}

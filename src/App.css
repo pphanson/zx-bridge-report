@@ -4,6 +4,13 @@
   height: 100%;
 }
 
+.logo {
+  float: left;
+  height: 100%;
+  position: absolute;
+  left: 15px;
+}
+
 .app {
   text-align: center;
   min-height: 100%;
@@ -11,15 +18,22 @@
 
 .header {
   color: white;
+  background: #383d3b;
+  position: relative;
+}
+
+.header h1 {
+  color: white;
 }
 
 .footer {
-  background: #001529;
+  background: #383d3b;
   color: white;
 }
 
 .content {
   padding: 1rem;
+  background-color: #32363a;
 }
 
 .card {
