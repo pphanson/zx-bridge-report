@@ -1,0 +1,456 @@
+[{
+    "name": "安龙河中桥",
+    "data":[{
+        "year": 2006,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2007,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2008,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2009,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2010,
+        "edge_count":12,
+        "edge_length": 97,
+        "edge_less_015_count":10,
+        "edge_less_015_length": 74,
+        "edge_more_015_count":2,
+        "edge_more_015_length":23
+    },  {
+        "year": 2011,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2012,
+        "edge_count":27,
+        "edge_length": 213.6,
+        "edge_less_015_count":22,
+        "edge_less_015_length": 159.8,
+        "edge_more_015_count":5,
+        "edge_more_015_length":53.8
+    }, {
+        "year": 2013,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2014,
+        "edge_count":30,
+        "edge_length": 291.8,
+        "edge_less_015_count":26,
+        "edge_less_015_length": 247.7,
+        "edge_more_015_count":4,
+        "edge_more_015_length":44.1
+    },  {
+        "year": 2015,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2016,
+        "edge_count":36,
+        "edge_length": 290.7,
+        "edge_less_015_count":36,
+        "edge_less_015_length": 290.7,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }]
+}, {
+    "name": "北伍佑港中桥",
+    "data":[{
+        "year": 2006,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2007,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2008,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2009,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2010,
+        "edge_count":10,
+        "edge_length": 94.7,
+        "edge_less_015_count":4,
+        "edge_less_015_length": 52,
+        "edge_more_015_count":6,
+        "edge_more_015_length":42.7
+    },  {
+        "year": 2011,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2012,
+        "edge_count":3,
+        "edge_length": 25.1,
+        "edge_less_015_count":3,
+        "edge_less_015_length": 25.1,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2013,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2014,
+        "edge_count":17,
+        "edge_length": 123.6,
+        "edge_less_015_count":17,
+        "edge_less_015_length": 123.6,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    },  {
+        "year": 2015,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2016,
+        "edge_count":20,
+        "edge_length": 187,
+        "edge_less_015_count":20,
+        "edge_less_015_length": 187,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }]
+}, {
+    "name": "东升河中桥",
+    "data":[{
+        "year": 2006,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2007,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2008,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2009,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2010,
+        "edge_count":20,
+        "edge_length": 189.8,
+        "edge_less_015_count":10,
+        "edge_less_015_length": 65.3,
+        "edge_more_015_count":10,
+        "edge_more_015_length":124.5
+    },  {
+        "year": 2011,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2012,
+        "edge_count":15,
+        "edge_length": 96.3,
+        "edge_less_015_count":12,
+        "edge_less_015_length": 60.5,
+        "edge_more_015_count":3,
+        "edge_more_015_length":35.8
+    }, {
+        "year": 2013,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2014,
+        "edge_count":16,
+        "edge_length": 147.7,
+        "edge_less_015_count":16,
+        "edge_less_015_length": 147.7,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    },  {
+        "year": 2015,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2016,
+        "edge_count":41,
+        "edge_length": 272.8,
+        "edge_less_015_count":41,
+        "edge_less_015_length": 272.8,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }]
+}, {
+    "name": "方向河中桥",
+    "data":[{
+        "year": 2006,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2007,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2008,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2009,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2010,
+        "edge_count":33,
+        "edge_length": 233.1,
+        "edge_less_015_count":28,
+        "edge_less_015_length": 194.2,
+        "edge_more_015_count":5,
+        "edge_more_015_length":38.9
+    },  {
+        "year": 2011,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2012,
+        "edge_count":3,
+        "edge_length": 13.7,
+        "edge_less_015_count":3,
+        "edge_less_015_length": 13.7,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2013,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2014,
+        "edge_count":18,
+        "edge_length": 114.9,
+        "edge_less_015_count":18,
+        "edge_less_015_length": 114.9,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    },  {
+        "year": 2015,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2016,
+        "edge_count":41,
+        "edge_length": 299.8,
+        "edge_less_015_count":41,
+        "edge_less_015_length": 299.8,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }]
+}, {
+    "name": "伍龙河中桥",
+    "data":[{
+        "year": 2006,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2007,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2008,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2009,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2010,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    },  {
+        "year": 2011,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2012,
+        "edge_count":6,
+        "edge_length": 52.6,
+        "edge_less_015_count":5,
+        "edge_less_015_length": 37.1,
+        "edge_more_015_count":1,
+        "edge_more_015_length":15.5
+    }, {
+        "year": 2013,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2014,
+        "edge_count":17,
+        "edge_length": 155.1,
+        "edge_less_015_count":17,
+        "edge_less_015_length": 155.1,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    },  {
+        "year": 2015,
+        "edge_count":0,
+        "edge_length": 0,
+        "edge_less_015_count":0,
+        "edge_less_015_length": 0,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }, {
+        "year": 2016,
+        "edge_count":23,
+        "edge_length": 185.3,
+        "edge_less_015_count":23,
+        "edge_less_015_length": 185.3,
+        "edge_more_015_count":0,
+        "edge_more_015_length":0
+    }]
+}]
