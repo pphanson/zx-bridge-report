@@ -28,13 +28,15 @@ const measures = {
     }
 };
 
-export default function reducer(state = { currentReportId: -1, currentBridge: '显示桥梁名称', measures, reports: initialState }, action) {
+export default function reducer(state = { currentReportId: -1, currentBridge: '显示桥梁名称', measures, reports: initialState, loading: false }, action) {
     switch (action.type) {
+        case 'SELECT_START': 
+            return {...state, loading: true};
         case 'LOAD':
-        case 'SELECT':
+        case 'SELECT_END':
             const uuid = isNaN(action.payload) ? -1: action.payload;
             const currentBridge = uuid === -1 ?  '显示桥梁名称': state.reports[action.payload].name ;
-            return { ...state, currentReportId: action.payload, currentBridge };
+            return { ...state, currentReportId: action.payload, currentBridge, loading: false };
         default:
             return state;
     }

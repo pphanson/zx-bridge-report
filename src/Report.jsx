@@ -187,10 +187,17 @@ const mapDispatchToProps = dispatch => {
            })
        },
        selectBridge: ({ key }) => {
+
+           setTimeout(() => {
+                dispatch({
+                    type: 'SELECT_END',
+                    payload: key
+                });
+           }, Math.random() * 1000 * 6)
            dispatch({
-               type: 'SELECT',
+               type: 'SELECT_START',
                payload: key
-           })
+           });
        }
     }
 }

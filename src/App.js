@@ -1,10 +1,13 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import './App.css';
-import { Layout, Card, Col, Row } from 'antd';
+import { Layout, Card, Col, Row, Spin } from 'antd';
 import Report from './Report';
 import CardContainer from './CardContainer';
-import logo from './logo.png'
+import logo from './logo.png';
+import { connect } from 'react-redux';
+import PropTypes from 'prop-types';
+
 const { Header, Footer, Content } = Layout;
 
 const ReportWrapper = ({ match }) => {
@@ -13,6 +16,13 @@ const ReportWrapper = ({ match }) => {
 }
 
 class App extends Component {
+  static propTypes = {
+    loading: PropTypes.bool.isRequired,
+  };
+
+  static defaultProps = {
+    loading: false,
+  }
 
   render() {
     return (
@@ -23,8 +33,10 @@ class App extends Component {
         <h1>桥梁报表分析平台</h1>
       </Header>
       <Content className='content'>
+        <Spin size='large' tip='数据分析中...' spinning={this.props.loading}>
         <Route exact path="/:id?" component={ReportWrapper} ></Route>
         <Route path="/report/:id?" component={ReportWrapper} ></Route>
+        </Spin>
       </Content>
       <Footer className='footer'>
           智行科技 ©2018 Copyright
@@ -35,4 +47,15 @@ class App extends Component {
   }
 }
 
-export default App;
+const mapStateToProps = (state) => ({
+  loading: state.loading
+});
+
+const mapDispatchToProps = (state) => ({
+
+});
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(App);
